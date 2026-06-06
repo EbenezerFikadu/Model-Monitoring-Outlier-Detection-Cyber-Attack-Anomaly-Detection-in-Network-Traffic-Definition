@@ -1,7 +1,3 @@
-
-# This is your complete Cyber Defense System
-# All code from our session is integrated here
-# Save this as 'cyber_defense_system.ipynb'
     
 # Import all necessary libraries
 !pip install scikit-learn pandas numpy matplotlib seaborn alibi-detect scipy joblib tqdm PyYAML
